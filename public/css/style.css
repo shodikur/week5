@@ -1,0 +1,66 @@
+html{
+    position: relative; 
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 120px;
+    /* margin-top: 10px; */
+    background-color: #E0F7EF;
+}
+
+.jumbotron{
+    margin-top: 0;
+    height: 600px;
+    background-image: url('../img/non-3330412.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    /* background-position: -50 -100px; */
+    
+
+}
+
+.jumbotron .h {
+    text-align: center;
+    color: #b1c4ba;
+    margin-top: 50px;
+}
+
+/* .jumbotron .h p {
+    padding-top: 100px;
+} */
+
+hr{
+    width: 250px;
+    border-top: 3px solid #999;
+    ;
+}
+
+section{
+    min-height: 600px;
+}
+
+.Layanan{
+    background-color: #90c2b0;
+}
+
+
+.contact{
+    min-height: 850px;
+}
+.contact .container .coba {
+    background-color: #90c2b0;
+    border-radius: 10px;
+}
+
+footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 55px;
+    background-color: #333;
+    padding-top: 15px;
+    color:wheat;
+    
+}
